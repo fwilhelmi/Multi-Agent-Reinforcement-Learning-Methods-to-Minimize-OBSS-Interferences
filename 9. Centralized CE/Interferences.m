@@ -7,7 +7,7 @@ function interferences = Interferences(wlan, powMat)
 %       - powMat: matrix NxN (N is the number of WLANs) with the power
 %       received at each AP in dBm.
 %   Output:
-%       - intMat: 1xN array (N is the number of WLANs) with the
+%       - interferences: 1xN array (N is the number of WLANs) with the
 %       interferences noticed on each AP in mW
 % We assume that overlapping channels also create an interference with lower level (20dB/d) 
 % 20 dB == 50 dBm

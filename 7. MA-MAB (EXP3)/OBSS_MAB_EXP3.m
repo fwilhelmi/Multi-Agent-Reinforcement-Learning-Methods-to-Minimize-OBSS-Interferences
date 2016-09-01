@@ -1,4 +1,4 @@
-% MASTER THESIS - Minimizing OBSS Interferences through Reinforcement Learning
+% MASTER THESIS - Multi-Agent Reinforcement Learning Methods to Minimize OBSS Interferences
 % Multi-Agent Multi-Armed Bandits Problem - EXP3
 % Author - Francesc Wilhelmi
 % Tutors - Boris Bellalta & Anders Jonsson

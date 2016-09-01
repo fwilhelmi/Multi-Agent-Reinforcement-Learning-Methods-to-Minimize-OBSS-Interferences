@@ -1,4 +1,4 @@
-% MASTER THESIS - Minimizing OBSS Interferences using Q-learning and Correlated Equilibria
+% MASTER THESIS - Multi-Agent Reinforcement Learning Methods to Minimize OBSS Interferences
 % Decentralized Q-learning - Thoughfulness Approach
 % Author - Francesc Wilhelmi
 % Tutors - Boris Bellalta & Anders Jonsson

@@ -1,6 +1,8 @@
-% MASTER THESIS - A ML Solution For OBSS Coexistence in Dense Environments
+% MASTER THESIS - Multi-Agent Reinforcement Learning Methods to Minimize OBSS Interferences
 % Author - Francesc Wilhelmi
 % Tutors - Boris Bellalta & Anders Jonsson
+
+% Centralized Correlated Equilibria
 
 clc
 clear all
