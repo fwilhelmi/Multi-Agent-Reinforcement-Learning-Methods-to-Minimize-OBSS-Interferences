@@ -5,7 +5,7 @@ function C = Capacity(B, sinr)
     C = B * log2(1+sinr);
 end
 
-% Theoretical Capacity
+% Theoretical Capacity code
 % B = [5e6 10e6 15e6 20e6];
 % for j = 1:size(B,2)
 %     for i=0:100
